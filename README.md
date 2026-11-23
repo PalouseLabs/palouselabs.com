@@ -10,7 +10,7 @@ Static HTML site, deployed via Cloudflare Pages with direct GitHub integration (
 - `privacy.html` — privacy policy (served at `/privacy`)
 - `terms.html` — terms of service (served at `/terms`)
 - `styles.css` — all styling
-- `public/fonts/InterVariable.woff2` — self-hosted Inter variable font
+- `fonts/InterVariable.woff2` — self-hosted Inter variable font
 - `favicon.svg`, `favicon.ico`, `apple-touch-icon.png` — favicons
 - `og.png` — Open Graph card image (1200&times;630)
 - `robots.txt`, `sitemap.xml`
